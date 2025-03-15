@@ -15,7 +15,7 @@ Simple HTML5 Checkout page
     <img src='https://cdn.freecodecamp.org/curriculum/labs/cube.jpg'alt='an image of a rubics cube'></img>
     <p>A rubics cube</p>
     <p>£12.99</p>
-    </section>
+</section>
 <section>
     <h2>Payment Information</h2>
     <form>
